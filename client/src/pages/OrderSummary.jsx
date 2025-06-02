@@ -73,15 +73,7 @@ export default function OrderSummary() {
                               <ul className="custom-list">
                                   <li> Refunds will be provided for ticket cancellations made up to 14 days before the event date. After this period, no refunds will be issued. To request a refund, please contact our customer support team. </li>
   
-                                  <li> Tickets will be delivered to your registered email address as e-tickets. You can print the e-ticket or show it on your mobile device for entry to the event. </li>
-  
-                                  <li> Each individual is allowed to purchase a maximum of 2 tickets for this event to ensure fair distribution. </li>
-  
                                   <li> In the rare event of cancellation or postponement, attendees will be notified via email. Refunds will be automatically processed for canceled events. </li>
-  
-                                  <li> Tickets for postponed events will not be refunded and the ticket will be considered a valid ticket on the date of postponement.</li>
-  
-                                  <li> Your privacy is important to us. Our privacy policy outlines how we collect, use, and protect your personal information. By using our app, you agree to our privacy policy. </li>
   
                                   <li> Before proceeding with your ticket purchase, please review and accept our terms and conditions, which govern the use of our app and ticketing services. </li>
                               </ul>
